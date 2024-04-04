@@ -14,7 +14,7 @@ Part A: Creating
   4. In Create New User, I filled out the following credentials.
 
       User principal name = az104-user1
-      Display name =a z104-user1
+      Display name = az104-user1
       Auto-generate password = checked
       Account enabled	= checked
       Job title (Properties tab) = IT Lab Administrator
@@ -31,7 +31,7 @@ Part B: Invite and External User
 
   2. In the INvite an external user page, I filled out the following
 
-      Email	= mypersonalemail@email.com
+      Email = mypersonalemail@email.com
       Display name = Vladimir Pierre
       Send invite message = check the box
       Message = Welcome to Azure and our group project
