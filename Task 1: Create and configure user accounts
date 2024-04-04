@@ -1,11 +1,39 @@
-In this task, I've created and configured a user account. User account will store user data such as name, department,
-location, and contact information.
+In this task, I've created and configured a user account. The user account will store user data such as name, department,
+location, and contact information. I will then invite an external user 
 
 Below, I've listed the steps that I took to complete this task:
 
+Part A: Creating 
 
-1. Logged into my Azure subscription
+  1. Logged into my Azure subscription
 
-2. From the portal, I searched User in the search field in my Azure portal 
+  2. From the portal, I searched User in the search field in my Azure portal.
 
-3. In User, I selected the drop-down for <br>New User</br>
+  3. In User, I selected the drop-down for New User then Create New User.
+
+  4. In Create New User, I filled out the following credentials.
+
+      User principal name	= az104-user1
+      Display name	= az104-user1
+      Auto-generate password	= checked
+      Account enabled	 = checked
+      Job title (Properties tab) = IT Lab Administrator
+      Department (Properties tab)	= IT
+      Usage location (Properties tab)	= United States
+
+  5. Once complete, I selected Review + Create and then Create.
+
+  6. I refreshed the page then my new user was created!!!!
+
+Part B: Invite and External User
+
+  1. While in the User tab, I selected the New User drop-down then Invite an external user
+
+  2. In the INvite an external user page, I filled out the following
+
+      Email	= mypersonalemail@email.com
+      Display name = Vladimir Pierre
+      Send invite message	= check the box
+      Message =	Welcome to Azure and our group project
+
+  3. 
