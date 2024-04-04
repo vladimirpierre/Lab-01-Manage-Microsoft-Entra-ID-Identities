@@ -21,9 +21,3 @@ Lab Architecture - Diagram
 ![image](https://github.com/vladimirpierre/Manage-Azure-resources-by-using-Azure-Resource-Manager-Templates/assets/63518876/714954d8-fe0d-4a4e-9576-ae9973722178)
 
 
-
-Task 1: Creating and Configuring User Accounts
-
-In this task, I will create and configure user accounts from the Azure portal. The user accounts will store user data such as name, department, location, and contact information.
-
-
