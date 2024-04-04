@@ -13,8 +13,8 @@ Part A: Creating
 
   4. In Create New User, I filled out the following credentials.
 
-      User principal name	= az104-user1
-      Display name = az104-user1
+      User principal name=az104-user1
+      Display name=az104-user1
       Auto-generate password = checked
       Account enabled	 = checked
       Job title (Properties tab) = IT Lab Administrator
