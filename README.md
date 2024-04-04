@@ -1,4 +1,6 @@
-Lab 1: Manage Microsoft Entra ID Identities from CLI
+Lab 1: Manage Microsoft Entra ID Identities 
+
+****This Lab Project is from <a href="(https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html)">Microsoft Lab 1</a>***
 
 This is the first part of a series of labs for Microsoft Azure Administrators. In this lab, I will create/manage users and groups. Users and groups are the basic building blocks for an identity solution.
 
@@ -17,5 +19,10 @@ Lab Architecture - Diagram
 
 ![image](https://github.com/vladimirpierre/Manage-Azure-resources-by-using-Azure-Resource-Manager-Templates/assets/63518876/714954d8-fe0d-4a4e-9576-ae9973722178)
 
+
+
+Task 1: Creating and Configuring User Accounts
+
+In this task, I will create and configure user accounts from the Azure portal. The user accounts will store user data such as name, department, location, and contact information.
 
 
