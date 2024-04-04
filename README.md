@@ -1,6 +1,6 @@
 Lab 1: Manage Microsoft Entra ID Identities 
 
-****This Lab Project is from <a href="(https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html)">Microsoft Lab 1</a>***
+****This Lab Project is from <a href=https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html>Microsoft Lab 1</a>***
 
 This is the first part of a series of labs for Microsoft Azure Administrators. In this lab, I will create/manage users and groups. Users and groups are the basic building blocks for an identity solution.
 
