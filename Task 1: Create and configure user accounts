@@ -16,7 +16,7 @@ Part A: Creating
       User principal name = az104-user1
       Display name = az104-user1
       Auto-generate password = checked
-      Account enabled	= checked
+      Account enabled = checked
       Job title (Properties tab) = IT Lab Administrator
       Department (Properties tab) = IT
       Usage location (Properties tab) = United States
